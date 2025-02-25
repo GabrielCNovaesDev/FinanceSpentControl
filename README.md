@@ -1,4 +1,4 @@
-# Clone Spotify
+# Finance Spent Control
 
 ## 📌 Index
 
@@ -17,8 +17,6 @@ A simple Finance Spent Control system that helps the user to control their finan
 
 ## 🛠 Technologies Used
 
-- [CSS/ Language](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [HTML/ Language](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [JavaScript/ Language](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Visual Studio/Code Editor](https://visualstudio.microsoft.com/pt-br/downloads/)
 
@@ -36,8 +34,7 @@ cd repository-name
 ## 🚀 How to Use
 
 ```bash
-# Download archives and run the application on Visual Studio (You can use live server extension to make it refresh automatically)
-# If you want you can open it in vercel website
+# Download archives and run the application on Visual Studio
 ```
 
 ## 🤝 Contributing
