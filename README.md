@@ -17,8 +17,8 @@ A simple Finance Spent Control system that helps the user to control their finan
 
 ## 🛠 Technologies Used
 
-- [JavaScript/ Language](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Visual Studio/Code Editor](https://visualstudio.microsoft.com/pt-br/downloads/)
+- [Java/Language](https://www.java.com/pt-BR/)
+- [Intellij/IDE](https://www.jetbrains.com/pt-br/idea/)
 
 ## 📥 Installation
 
@@ -34,7 +34,7 @@ cd repository-name
 ## 🚀 How to Use
 
 ```bash
-# Download archives and run the application on Visual Studio
+# Download archives and run the application on Intellij IDEA
 ```
 
 ## 🤝 Contributing
